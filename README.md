@@ -9,34 +9,34 @@
 
 <table>
     <tr>
-        <th align="left">Setup</th>
-        <th align="left">설명</th>
+        <th align="left"><sub>Setup</sub></th>
+        <th align="left"><sub>설명</sub></th>
     </tr>
     <tr>
-        <td><a href="#structure">Structure</a></td>
+        <td><sub><a href="#structure">Structure</a></sub></td>
         <td><sub>연습용 폴더 구조</sub></td>
     </tr>
     <tr>
-        <td><a href="#dev">Dev</a></td>
+        <td><sub><a href="#dev">Dev</a></sub></td>
         <td><sub>개발 서버 실행과 접속 주소</sub></td>
     </tr>
     <tr>
-        <td><a href="#import-rule">Import Rule</a></td>
+        <td><sub><a href="#import-rule">Import Rule</a></sub></td>
         <td><sub>src, notes alias 사용 규칙</sub></td>
     </tr>
 </table>
 
 <table>
     <tr>
-        <th align="left">Rehearsal</th>
-        <th align="left">---</th>
+        <th align="left"><sub>Rehearsal</sub></th>
+        <th align="left"><sub>설명</sub></th>
     </tr>
     <tr>
-        <td><a href="#rehearsal-01">Rehearsal 01</a></td>
+        <td><sub><a href="#rehearsal-01">Rehearsal 01</a></sub></td>
         <td><sub>---</sub></td>
     </tr>
     <tr>
-        <td><a href="#rehearsal-02">Rehearsal 02</a></td>
+        <td><sub><a href="#rehearsal-02">Rehearsal 02</a></sub></td>
         <td><sub>---</sub></td>
     </tr>
 </table>
