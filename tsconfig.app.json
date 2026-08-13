@@ -24,10 +24,12 @@
         "noFallthroughCasesInSwitch": true,
 
         "paths": {
-            "@/*": ["./src/*"]
+            "@/*": ["./src/*"],
+            "examples01/*": ["./notes/rehearsal-01/examples/*"],
+            "examples02/*": ["./notes/rehearsal-02/examples/*"]
         },
 
         "types": ["vite/client", "vitest/globals"]
     },
-    "include": ["src"]
+    "include": ["src", "notes"]
 }

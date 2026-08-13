@@ -10,6 +10,12 @@ export default defineConfig({
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url)),
+            examples01: fileURLToPath(
+                new URL('./notes/rehearsal-01/examples', import.meta.url),
+            ),
+            examples02: fileURLToPath(
+                new URL('./notes/rehearsal-02/examples', import.meta.url),
+            ),
         },
     },
 
