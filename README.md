@@ -5,6 +5,18 @@
 
 <sub>React + TypeScript + Vite 기본 구조를 반복해서 다시 작성해보는 연습용 공간.</sub>
 
+## Contents
+
+- [Lab-02](#lab-02)
+    - [Contents](#contents)
+    - [Structure](#structure)
+    - [Dev](#dev)
+    - [Import Rule](#import-rule)
+
+---
+
+## Structure
+
 ```txt
 notes/
 ├─ rehearsal-01/
