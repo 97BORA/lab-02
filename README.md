@@ -25,7 +25,7 @@ notes/
 
 ## Dev
 
-<span style="font-size: 12px;">터미널에서 Vite 개발 서버를 실행한다.</span>
+<span style="font-size: 8px;">터미널에서 Vite 개발 서버를 실행한다.</span>
 
 ```bash
 npm run dev
