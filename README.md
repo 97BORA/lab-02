@@ -1,17 +1,45 @@
 # Lab-02
 
 ![Day](https://img.shields.io/badge/Day-260813-233D4D?labelColor=464858)
-![Notes Rehearsal](https://img.shields.io/badge/Notes_Rehearsal-01%20~%2002-233D4D?labelColor=464858)
+![Notes Rehearsal](https://img.shields.io/badge/Notes_Rehearsal-01%20~%200X-233D4D?labelColor=464858)
 
 <sub>React + TypeScript + Vite 기본 구조를 반복해서 다시 작성해보는 연습용 공간.</sub>
 
 ## Contents
 
-- [Lab-02](#lab-02)
-    - [Contents](#contents)
-    - [Structure](#structure)
-    - [Dev](#dev)
-    - [Import Rule](#import-rule)
+<table>
+    <tr>
+        <th align="left">Setup</th>
+        <th align="left">설명</th>
+    </tr>
+    <tr>
+        <td><a href="#structure">Structure</a></td>
+        <td><sub>연습용 폴더 구조</sub></td>
+    </tr>
+    <tr>
+        <td><a href="#dev">Dev</a></td>
+        <td><sub>개발 서버 실행과 접속 주소</sub></td>
+    </tr>
+    <tr>
+        <td><a href="#import-rule">Import Rule</a></td>
+        <td><sub>src, notes alias 사용 규칙</sub></td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <th align="left">Rehearsal</th>
+        <th align="left">---</th>
+    </tr>
+    <tr>
+        <td><a href="#rehearsal-01">Rehearsal 01</a></td>
+        <td><sub>---</sub></td>
+    </tr>
+    <tr>
+        <td><a href="#rehearsal-02">Rehearsal 02</a></td>
+        <td><sub>---</sub></td>
+    </tr>
+</table>
 
 ---
 
@@ -85,4 +113,34 @@ import 'examples02/index.example.css';
     "examples01/*": ["./notes/rehearsal-01/examples/*"],
     "examples02/*": ["./notes/rehearsal-02/examples/*"]
 }
+```
+
+---
+
+## Rehearsal 01
+
+<sub>기본 Vite React 구조를 다시 작성하는 첫 번째 연습.</sub>
+
+```txt
+notes/rehearsal-01/
+├─ index.example.html
+└─ examples/
+   ├─ App.example.tsx
+   ├─ index.example.css
+   └─ main.example.tsx
+```
+
+---
+
+## Rehearsal 02
+
+<sub>같은 구조를 다시 한 번 반복해서 작성하는 두 번째 연습.</sub>
+
+```txt
+notes/rehearsal-02/
+├─ index.example.html
+└─ examples/
+   ├─ App.example.tsx
+   ├─ index.example.css
+   └─ main.example.tsx
 ```
