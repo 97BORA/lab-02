@@ -130,7 +130,7 @@ notes/rehearsal-01/
    └─ main.example.tsx
 ```
 
-##
+---
 
 ## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
 
