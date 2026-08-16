@@ -1,4 +1,4 @@
-# Lab-02
+## Lab-02
 
 ![Day](https://img.shields.io/badge/Day-260813-233D4D?labelColor=464858)
 ![Notes Rehearsal](https://img.shields.io/badge/Notes_Rehearsal-01%20~%200X-233D4D?labelColor=464858)
