@@ -133,6 +133,9 @@ notes/rehearsal-01/
 ## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
 
 ```txt
+src/types
+└─ global.d.ts
+
 notes/rehearsal-01/examples/features
 ├─ counter/
 └─ pageLoader/
