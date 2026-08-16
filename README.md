@@ -132,6 +132,17 @@ notes/rehearsal-01/
 
 ---
 
+![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
+
+```txt
+notes/rehearsal-01/examples/features
+├─ counter/
+└─ pageLoader/
+   └─ usePageLoader.tsx
+```
+
+---
+
 ## Rehearsal 02
 
 <sub>같은 구조를 다시 한 번 반복해서 작성하는 두 번째 연습.</sub>
