@@ -144,3 +144,14 @@ notes/rehearsal-02/
    ├─ index.example.css
    └─ main.example.tsx
 ```
+
+---
+
+## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
+
+```txt
+notes/rehearsal-01/examples/features
+├─ counter/
+└─ pageLoader/
+   └─ usePageLoader.tsx
+```
