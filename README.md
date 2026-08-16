@@ -130,9 +130,9 @@ notes/rehearsal-01/
    └─ main.example.tsx
 ```
 
-![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
+##
 
-<hr style="border: none; border-top: 1px solid #2a2a2a;" />
+## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
 
 ```txt
 notes/rehearsal-01/examples/features
