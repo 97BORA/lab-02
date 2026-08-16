@@ -130,6 +130,8 @@ notes/rehearsal-01/
    └─ main.example.tsx
 ```
 
+##
+
 ## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
 
 ```txt
@@ -137,9 +139,23 @@ src/types
 └─ global.d.ts
 
 notes/rehearsal-01/examples/features
-├─ counter/
+├─ X/
 └─ pageLoader/
    └─ usePageLoader.tsx
+```
+
+## ![Day](https://img.shields.io/badge/Day-260817-233D4D?labelColor=464858)
+
+```txt
+notes/rehearsal-01/examples/features
+└─ pageLoader/
+    └─ Loader.tsx
+
+notes/rehearsal-01/
+└─ index.example.html
+
+notes/rehearsal-01/examples
+└─ App.example.tsx
 ```
 
 ---
