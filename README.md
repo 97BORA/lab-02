@@ -130,6 +130,15 @@ notes/rehearsal-01/
    └─ main.example.tsx
 ```
 
+## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
+
+```txt
+notes/rehearsal-01/examples/features
+├─ counter/
+└─ pageLoader/
+   └─ usePageLoader.tsx
+```
+
 ---
 
 ## Rehearsal 02
@@ -146,12 +155,3 @@ notes/rehearsal-02/
 ```
 
 ---
-
-## ![Day](https://img.shields.io/badge/Day-260816-233D4D?labelColor=464858)
-
-```txt
-notes/rehearsal-01/examples/features
-├─ counter/
-└─ pageLoader/
-   └─ usePageLoader.tsx
-```
